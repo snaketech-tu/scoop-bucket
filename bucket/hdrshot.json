@@ -32,8 +32,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://github.com/snaketech-tu/hdrshot/releases/download/v$version/hdrshot-gui.exe",
-                    "https://github.com/snaketech-tu/hdrshot/releases/download/v$version/hdrshot.exe"
+                    "https://github.com/snaketech-tu/hdrshot/releases/download/v$version/hdrshot.exe#/hdrshot-gui.exe",
+                    "https://github.com/snaketech-tu/hdrshot/releases/download/v$version/hdrshot-cli.exe#/hdrshot.exe"
                 ]
             }
         },
